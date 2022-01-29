@@ -1,3 +1,5 @@
-## Test pdf
+Main repo is [here](https://github.com/ENG1-team5/yorkPirates)
 
-[here](/static/eng1-tem-assessment-1_3.pdf)
+## Miscellaneous files
+
+* [Assessment Breif - part 1](/static/eng1-team-assessment-1_3.pdf)
