@@ -2,7 +2,7 @@
 
 The main repository can be found [here](https://github.com/ENG1-team5/yorkPirates)
 
-The executeable jar filed can be downloaded [here](/static/YorkPirates 1.0 - Team 5.jar)
+The executeable jar file can be downloaded [here](/static/YorkPirates 1.0 - Team 5.jar)
 
 ## Assessment documents
 
