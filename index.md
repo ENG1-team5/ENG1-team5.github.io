@@ -1,4 +1,4 @@
-# Assessment 2#
+# Assessment 2
 
 ## YorKorsairs game
 
