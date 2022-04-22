@@ -8,7 +8,15 @@ The latest version can be found on the release page [here](https://github.com/EN
 
 ## Assessment Documents
 
+* TODO
+
 ## Original Assessment Documents
+
+* [Original Requirements - Req2o.pdf](/static/Req2o.pdf)
+* [Original Architecture - Arch2o.pdf](/static/Arch2o.pdf)
+* [Original Planning - Plan2o.pdf](/static/Plan2o.pdf)
+* [Original Risks - Risk2o.pdf](/static/Risk2o.pdf)
+* [Original Implimentation - Impl2o.pdf](/static/Impl2o.pdf)
 
 # Assessment 1
 
