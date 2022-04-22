@@ -1,3 +1,17 @@
+# Assessment 2#
+
+## YorKorsairs game
+
+The repository can be found [here](https://github.com/ENG1-team5/YorKorsairs-Game)
+
+The latest version can be found on the release page [here](https://github.com/ENG1-team5/YorKorsairs-Game/releases/)
+
+## Assessment Documents
+
+## Original Assessment Documents
+
+# Assessment 1
+
 ## YorkPirates game
 
 The main repository can be found [here](https://github.com/ENG1-team5/yorkPirates)
