@@ -12,30 +12,32 @@ Alternatively, the latest version can be found on the release page [here](https:
 
 These are our documents created for Assessment 2.
 
-* [Implimentation and Changes - Impl2.pdf](/static/A2/Impl2.pdf)
-* [Testing Design and Evidence - Test2_C.pdf](/static/A2/Test2_C.pdf)
+* [2. Change Report - Change2.pdf](/static/A2/Change2.pdf)
+* [3. Implimentation and Changes - Impl2.pdf](/static/A2/Impl2.pdf)
+* [4. Testing - Test2.pdf](/static/A2/Test2.pdf)
+    * [4C. Testing Design and Evidence - Test2_C.pdf](/static/A2/Test2_C.pdf)
     * [JUnit Test Source files - JUnitTests.zip](/static/A2/JUnitTests.zip)
-* [Continuous Integration - CI2.pdf](/static/A2/CI2.pdf)
+* [5. Continuous Integration - CI2.pdf](/static/A2/CI2.pdf)
 
 ### Updated Assessment Documents
 
 These are the assessment documents provided by Team 10 and updated by us.
 
-* [Updated Requirements - Req2u.pdf](/static/A2u/Req2u.pdf)
-* [Updated Architecture - Arch2u.pdf](/static/A2u/Arch2u.pdf)
-* [Updated Planning - Plan2u.pdf](/static/A2u/Plan2u.pdf)
-* [Updated Risks - Risk2u.pdf](/static/A2u/Risk2u.pdf)
-* [Updated Implimentation - Impl2u.pdf](/static/A2u/Impl2u.pdf)
+* [1. Updated Requirements - Req2u.pdf](/static/A2u/Req2u.pdf)
+* [2. Updated Architecture - Arch2u.pdf](/static/A2u/Arch2u.pdf)
+* [3. Updated Planning - Plan2u.pdf](/static/A2u/Plan2u.pdf)
+* [4. Updated Risks - Risk2u.pdf](/static/A2u/Risk2u.pdf)
+* [5. Updated Implimentation - Impl2u.pdf](/static/A2u/Impl2u.pdf)
 
 ### Original Assessment Documents
 
 These are the assessment documents as provided by Team 10
 
-* [Original Requirements - Req2o.pdf](/static/A2o/Req2o.pdf)
-* [Original Architecture - Arch2o.pdf](/static/A2o/Arch2o.pdf)
-* [Original Planning - Plan2o.pdf](/static/A2o/Plan2o.pdf)
-* [Original Risks - Risk2o.pdf](/static/A2o/Risk2o.pdf)
-* [Original Implimentation - Impl2o.pdf](/static/A2o/Impl2o.pdf)
+* [1. Original Requirements - Req2o.pdf](/static/A2o/Req2o.pdf)
+* [2. Original Architecture - Arch2o.pdf](/static/A2o/Arch2o.pdf)
+* [3. Original Planning - Plan2o.pdf](/static/A2o/Plan2o.pdf)
+* [4. Original Risks - Risk2o.pdf](/static/A2o/Risk2o.pdf)
+* [5. Original Implimentation - Impl2o.pdf](/static/A2o/Impl2o.pdf)
 
 ### Gantt Charts
 
@@ -57,8 +59,8 @@ The executeable jar file can be downloaded [here](/static/YorkPirates_Team_5.jar
 
 ### Assessment documents
 
-* [Requirements - Req1.pdf](/static/A1/Req1.pdf)
-* [Architecture - Arch1.pdf](/static/A1/Arch1.pdf)
-* [Planning - Plan1.pdf](/static/A1/Plan1.pdf)
-* [Risks - Risk1.pdf](/static/A1/Risk1.pdf)
-* [Implimentation - Impl1.pdf](/static/A1/Impl1.pdf)
+* [1. Requirements - Req1.pdf](/static/A1/Req1.pdf)
+* [2. Architecture - Arch1.pdf](/static/A1/Arch1.pdf)
+* [3. Planning - Plan1.pdf](/static/A1/Plan1.pdf)
+* [4. Risks - Risk1.pdf](/static/A1/Risk1.pdf)
+* [5. Implimentation - Impl1.pdf](/static/A1/Impl1.pdf)
