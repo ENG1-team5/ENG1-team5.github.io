@@ -25,6 +25,8 @@ These are the assessment documents provided by Team 10 and updated by us.
 
 * [1. Updated Requirements - Req2u.pdf](/static/A2u/Req2u.pdf)
 * [2. Updated Architecture - Arch2u.pdf](/static/A2u/Arch2u.pdf)
+    * [Concrete Architecture Diagram - Arch2.png](/static/A2u/Arch2.png)
+    * [Concrete Architecture Diagram - Arch2.png](/static/A2u/Flow2.png)
 * [3. Updated Planning - Plan2u.pdf](/static/A2u/Plan2u.pdf)
 * [4. Updated Risks - Risk2u.pdf](/static/A2u/Risk2u.pdf)
 * [5. Updated Implimentation - Impl2u.pdf](/static/A2u/Impl2u.pdf)
