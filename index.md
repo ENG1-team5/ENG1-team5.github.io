@@ -4,7 +4,7 @@
 
 The repository can be found [here](https://github.com/ENG1-team5/YorKorsairs-Game)
 
-The executable jar can be found [here](/static/YorKorsairs_Fixed.jar)
+The executable jar can be found [here](/static/YorKorsairs_fixed.jar)
 
 Alternatively, the latest version can be found on the release page [here](https://github.com/ENG1-team5/YorKorsairs-Game/releases/)
 
